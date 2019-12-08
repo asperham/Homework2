@@ -11,3 +11,10 @@ Some of the major public methods are used to control several aspects of the view
 
 # Code 
 The app can be found at: https://github.com/asperham/Homework2/tree/master/ViewPager 
+
+# References
+ViewPager  :   Android Developers. (n.d.). Retrieved December 5, 2019, from https://developer.android.com/reference/android/support/v4/view/ViewPager. 
+
+Slide between fragments using ViewPager  :   Android Developers. (n.d.). Retrieved December 5, 2019, from https://developer.android.com/training/animation/screen-slide. 
+
+
